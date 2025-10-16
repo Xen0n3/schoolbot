@@ -7,7 +7,7 @@ from googleapiclient.discovery import build
 
 # Токены и API-ключи
 API_TOKEN = '8248471096:AAF1VLBcw2rAGPGn_z7ByXs_xXVsNcHNIGM'
-youtube_api_key = 'AIzaSyBNz_fL0Kr7HeypshoI3pqXOdALo-1D4aE'
+youtube_api_key = 'AIzaSyBUnyrgl-iidUidw7SnHcBLNR_vloZrJJg'
 
 # Инициализация бота и API
 bot = TeleBot(API_TOKEN)
